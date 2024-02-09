@@ -1,6 +1,6 @@
 # Web Scraping Assignment
 
-This repository contains a Jupyter notebook file (`web_scraping.ipynb`) that demonstrates how to scrape a table from a webpage using the BeautifulSoup library in Python. 
+This repository contains a Jupyter notebook file (`Web_Scraping.ipynb`) that demonstrates how to scrape a table from a webpage using the BeautifulSoup library in Python. 
 The scraped table contains information about students' favorite computer languages and years of experience.
 
 ## Usage
